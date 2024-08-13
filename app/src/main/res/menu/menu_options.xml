@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/view_all_reminders"
+        android:title="@string/view_all_reminders"
+        android:icon="@drawable/baseline_menu_24"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/view_pet_profile"
+        android:title="@string/view_your_pet_profile"
+        android:icon="@drawable/baseline_menu_24"
+        app:showAsAction="never" />
+
+</menu>
